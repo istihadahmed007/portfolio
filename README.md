@@ -62,7 +62,7 @@ Welcome to my GitHub! I’m a Marketing & Sales professional with a strong acade
 - Tracked user retention and customer lifespan by acquisition month.
 - Used DAX time intelligence functions and calculated tables to model behavior trends.
 - **Tools:** Power BI, DAX, Calendar Tables, Custom Measures
-
+<img width="751" height="500" alt="Image" src="https://github.com/user-attachments/assets/0d922c67-40e7-4bd1-8d72-c9e220829ffa" />
 ### 🧮 RFM Segmentation
 - Segmented customers based on **Recency**, **Frequency**, and **Monetary** metrics.
 - Created dynamic RFM scoring models to target high-value customer groups.
