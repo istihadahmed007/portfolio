@@ -1,4 +1,4 @@
-# 👨‍💼 Istihad Ahmed
+# ![Image](https://github.com/user-attachments/assets/3447cbf5-910b-4683-8b7e-f929d2f672fc) Istihad Ahmed
 
 Welcome to my GitHub! I’m a Marketing & Sales professional with a strong academic background and real-world experience in the airline and travel industries. I’m also passionate about data analytics and have hands-on experience in Power BI, SQL, and business intelligence projects.
 
@@ -62,12 +62,17 @@ Welcome to my GitHub! I’m a Marketing & Sales professional with a strong acade
 - Tracked user retention and customer lifespan by acquisition month.
 - Used DAX time intelligence functions and calculated tables to model behavior trends.
 - **Tools:** Power BI, DAX, Calendar Tables, Custom Measures
+
 <img width="751" height="500" alt="Image" src="https://github.com/user-attachments/assets/0d922c67-40e7-4bd1-8d72-c9e220829ffa" />
+
+
 ### 🧮 RFM Segmentation
 - Segmented customers based on **Recency**, **Frequency**, and **Monetary** metrics.
 - Created dynamic RFM scoring models to target high-value customer groups.
 - Visualized key segments such as Loyal Customers, At-Risk Customers, and Champions.
 - **Tools:** Power BI, DAX, Ranking Functions, Customer Value Matrix
+
+<img width="718" height="480" alt="Image" src="https://github.com/user-attachments/assets/42e72b86-5f7b-4d88-a311-1ab3f9e8f28c" />
 
 > 🔗 *Sample reports and dashboards will be uploaded soon. Stay tuned!*
 
