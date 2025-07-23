@@ -1,5 +1,5 @@
-# ![Image](https://github.com/user-attachments/assets/3447cbf5-910b-4683-8b7e-f929d2f672fc) 
-##Istihad Ahmed
+![Image](https://github.com/user-attachments/assets/3447cbf5-910b-4683-8b7e-f929d2f672fc) 
+# Istihad Ahmed
 
 Welcome to my GitHub! I’m a Marketing & Sales professional with a strong academic background and real-world experience in the airline and travel industries. I’m also passionate about data analytics and have hands-on experience in Power BI, SQL, and business intelligence projects.
 
